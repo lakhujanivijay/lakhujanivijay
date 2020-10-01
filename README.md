@@ -1,6 +1,6 @@
  ![](https://github.com/vlakhujani/vlakhujani/blob/master/hi.gif)
  
-- 🔭 I’m currently working as Sr Bioinformatician @ Neuberg Centre for Genomic Medicine, Ahmedabad
+- 🔭 I’m currently working as Bioinformatics Lead @ Neuberg Centre for Genomic Medicine, Ahmedabad
 - 🌵 I’m from Jodhpur, Rajasthan. No we don't have sand everywhere 🏜️ and we do not ride on 🐪 !
 - 🤔 I’m exploring software building tools
 - 🤖 I 💙 automating routine and boring stuff 
