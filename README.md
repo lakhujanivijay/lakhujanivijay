@@ -54,6 +54,7 @@ Feel free to reach out to discuss collaborations, questions, or anything bioinfo
 ---
 
 ## 🌐 Let’s Connect!  
+- ** [Schedule 1:1 call](https://topmate.io/lakhujanivijay)**
 - **Email:** lakhujanivijay@gmail.com  
 - **Skype:** vijay.lakhujani  
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/lakhujanivijay/)  
