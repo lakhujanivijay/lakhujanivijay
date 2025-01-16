@@ -1,9 +1,8 @@
  
-# 👋 Welcome to My Personal GitHub!
+# 👋 Hey!
 
 Hi there! I'm Vijay Lakhujani, a passionate Clinical Bioinformatics Lead with **over 13 years of experience** in bioinformatics and genomics. This is my personal space where I explore innovative ideas, develop solutions, and share insights into this fascinating field.
 
----
 
 ## 🧬 About Me  
 As an experienced Clinical Bioinformatics Lead, I bring a **deep understanding of clinical NGS software development** and a **passion for software engineering and bioinformatics**. Over the years, I've led innovative projects that have streamlined data analysis and interpretation for clinical applications.  
@@ -18,8 +17,9 @@ Here’s what I bring to the table:
 ---
 
 ## 💼 Professional Space  
-This is my **personal GitHub account**, where I showcase experimental projects, prototypes, and open-source contributions.  
-➡️ [**BaseSolve Official GitHub**](https://github.com/v-lakhujani) [However, I work privately there ! No public repos; ofcourse]
+This is my **personal GitHub account**, where I showcase experimental projects, prototypes, and open-source contributions.
+My professional github account is hosted here
+➡️ [**BaseSolve Official GitHub**](https://github.com/v-lakhujani), however, I work privately there ! No public repos; ofcourse.
 
 ---
 
@@ -49,7 +49,7 @@ I’m passionate about sharing my knowledge and helping others excel in the fiel
 - **Resume Building:** Learn how to craft the perfect bioinformatics resume to land your dream job.  
 - **Interview Tips & Tricks:** Ace your interviews with confidence and preparation.  
 
-Feel free to reach out to discuss collaborations, questions, or anything bioinformatics-related!  
+#### Feel free to reach out to discuss collaborations, questions, or anything bioinformatics-related. You can schedule a 1:1 session with me; see details below
 
 ---
 
