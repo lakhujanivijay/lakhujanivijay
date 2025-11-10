@@ -1,7 +1,7 @@
  
 # 👋 Hey!
 
-Hi there! I'm Vijay Lakhujani, a passionate Clinical Bioinformatics Lead with **over 13 years of experience** in bioinformatics and genomics. This is my personal space where I explore innovative ideas, develop solutions, and share insights into this fascinating field.
+Hi there! I'm Vijay Lakhujani, a passionate Clinical Bioinformatics Lead with **over 14 years of experience** in bioinformatics and genomics. This is my personal space where I explore innovative ideas, develop solutions, and share insights into this fascinating field.
 
 
 ## 🧬 About Me  
@@ -55,6 +55,7 @@ I’m passionate about sharing my knowledge and helping others excel in the fiel
 
 ## 🌐 Let’s Connect!  
 - [**Schedule 1:1 call**](https://topmate.io/lakhujanivijay)
+- [**More About Me**](https://lnk.bio/lakhujanivijay)
 - **Email:** lakhujanivijay@gmail.com  
 - **Skype:** vijay.lakhujani  
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/lakhujanivijay/)  
