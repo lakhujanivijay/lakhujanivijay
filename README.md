@@ -35,7 +35,6 @@ My professional github account is hosted here
 ---
 
 ## 🌱 My Mission  
-- Developing **AUGMET**, a cutting-edge **Genomics Software Suite** that powers precision medicine.  
 - Empowering teams to tackle challenges in clinical genomics with innovation and technical excellence.  
 - Staying ahead in bioinformatics by embracing the latest advancements in technology and research.
 
